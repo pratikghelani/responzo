@@ -1,0 +1,51 @@
+{
+  "name": "responzo",
+  "version": "1.0.3",
+  "description": "responzo is a Node.js utility package designed to simplify response handling in API applications. It provides a set of predefined response structures for various HTTP status codes, making it easy to format consistent API responses for both success and error cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "response",
+    "handler",
+    "API",
+    "utility",
+    "nodejs",
+    "express",
+    "response-handler",
+    "api-response",
+    "error-handling",
+    "success-response",
+    "http-response",
+    "api-error",
+    "validation-error",
+    "status-code",
+    "response-utility",
+    "rate-limit",
+    "server-error",
+    "unauthorized",
+    "forbidden",
+    "conflict",
+    "not-found",
+    "bad-request",
+    "validation",
+    "http-status",
+    "response-format",
+    "error-codes",
+    "custom-error",
+    "response-json",
+    "api-helper"
+  ],
+  "author": "Pratikkkumar Ghelani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratikghelani/responzo.git"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/pratikghelani/responzo/issues"
+  },
+  "homepage": "https://github.com/pratikghelani/responzo#readme"
+}
