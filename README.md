@@ -105,32 +105,4 @@ Expert in Node.js, React, Next.js, Express.js, MongoDB, MySQL, AWS, AI & ML, And
 
 # Buy Me a Coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/pratikghelani)
-Package Sidebar
-Install
-npm i responzo
 
-Repository
-github.com/pratikghelani/responzo
-
-Homepage
-github.com/pratikghelani/responzo#readme
-
-Version
-1.0.3
-
-License
-MIT
-
-Unpacked Size
-6.55 kB
-
-Total Files
-3
-
-Last publish
-3 minutes ago
-
-Collaborators
-pratik86
-Try on RunKit
-Report malware
